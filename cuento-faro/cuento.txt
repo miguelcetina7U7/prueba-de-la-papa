@@ -1,3 +1,5 @@
 titulo:el secreto del faro
 
 Había una vez un viejo faro abandonado al borde del mar.
+
+Una noche su luz volvió a encenderse para guiar a los barcos perdidos.
